@@ -12,7 +12,7 @@
 | - | - |
 | オリジナルデータ | https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv |
 | オリジナル公開ページ | [内閣府 / 「国民の祝日」について](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html) |
-| 更新周期 | 世界標準時 毎月15日 16時15日 |
+| 更新スケジュール | 協定世界時(UTC) 毎月15日 16時15分頃 |
 
 ## 全取得URL(JSON形式)
 
